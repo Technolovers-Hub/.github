@@ -1,5 +1,8 @@
 Bemblin is and open source project that aims at providing solution to African language learners and barries that they may face.
-This is a web application built using Python Django on the backend and React on the frontend. The project aims to provide [brief description of the project's purpose and key features].
+
+This is a web application built using Python Django on the backend and React on the frontend.
+The project aims to provide [brief description of the project's purpose and key features].
+
 Table of Contents
 1.	Getting Started
 o	Prerequisites
