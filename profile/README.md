@@ -2,7 +2,7 @@
 
 ## 🌍 About Us
 
-At Technolovers-Hub, we are passionate about languages and technology. Our Language Learning Application **[BEMBLIN](https://github.com/matiassingers/awesome-readme)**
+At Technolovers-Hub, we are passionate about languages and technology. Our Language Learning Application **[BEMBLIN](https://github.com/Technolovers-Hub/bemblin-frontend)**
  is designed to provide an immersive and engaging platform for individuals of all ages and backgrounds to learn and master African languages. Whether you're a traveler, a student, a professional, or simply someone who loves languages, our project is here to make your language learning journey enjoyable and effective.
  
 ## 🌈 Get Involved
